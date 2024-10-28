@@ -1,10 +1,9 @@
-# Python-Project-EDA-
-Exploratory Data Analysis
+#Exploratory Data Analysis
 
-Project Overview
+##Project Overview
 This project involves performing Exploratory Data Analysis (EDA) on a sales dataset to uncover insights regarding product sales across different demographic segments. The dataset contains various fields that provide information about customers and their purchasing behavior.
 
-Objectives
+##Objectives
 The main objectives of this EDA are:
 
 Understand Sales Distribution: Analyze the distribution of sales across different product categories and demographics.
