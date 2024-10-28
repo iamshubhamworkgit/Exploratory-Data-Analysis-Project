@@ -6,18 +6,18 @@ This project involves performing Exploratory Data Analysis (EDA) on a sales data
 ## Objectives
 The main objectives of this EDA are:
 
-Understand Sales Distribution: Analyze the distribution of sales across different product categories and demographics.
-Customer Segmentation: Identify trends in purchasing behavior based on marital status, occupation, gender, age group, and state.
-Visualize Insights: Create visualizations to illustrate key findings and relationships in the data.
+1. Understand Sales Distribution: Analyze the distribution of sales across different product categories and demographics.
+2. Customer Segmentation: Identify trends in purchasing behavior based on marital status, occupation, gender, age group, and state.
+3. Visualize Insights: Create visualizations to illustrate key findings and relationships in the data.
 
 ## Tools and Libraries
 This project utilizes the following tools and libraries:
 
-Python: Programming language used for analysis.
-Pandas: For data manipulation and analysis.
-Matplotlib: For creating static visualizations.
-Seaborn: For statistical data visualization.
-NumPy: For numerical operations.
+* Python: Programming language used for analysis.
+* Pandas: For data manipulation and analysis.
+* Matplotlib: For creating static visualizations.
+* Seaborn: For statistical data visualization.
+* NumPy: For numerical operations.
 
 ## Project learnings
 * Improved customer experience by identifying potential customers across different states, occupation, gender and age group.
