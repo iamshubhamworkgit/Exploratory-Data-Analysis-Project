@@ -24,4 +24,4 @@ This project utilizes the following tools and libraries:
 * Improved sales by most selling product category and product, which can help to plan inventory and hence meet the demands.
   
 ## Conclusion
-We concluded that most buyers are Married Women between age group of 26-35 and most likely from U.P, Maharashtra or Karnatka working in IT, Healthcarte or Aviation sector and buying products from either Food, Clothing & Apparel or Electronics & Gadgets product category.
+We concluded that most buyers are Married Women between age group of 26-35 and most likely from U.P, Maharashtra or Karnataka working in IT, Healthcare or Aviation sector and buying products from either Food, Clothing & Apparel or Electronics & Gadgets product category.
